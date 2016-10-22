@@ -1,5 +1,5 @@
-# MATLAB-Data-Analysis-Sample-Project
-I did this project in MATLAB for a business analytics company as work sample. The dataset contains over 8000 samples and 22 features. Your objective of this project was to determine which set of customers the marketing firm should contact to maximize profit. 
+# Maximizing Profit through Customer Classification in MATLAB
+I did this project in MATLAB for a business analytics company as work sample. The dataset contains over 8000 samples and 22 features. The objective of this project was to determine which set of customers the marketing firm should contact to maximize profit. 
 
 Here is a summaty of the steps that were taken to analyze the data:
 
